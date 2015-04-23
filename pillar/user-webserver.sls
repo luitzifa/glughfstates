@@ -1,0 +1,4 @@
+user:
+  - martin
+  - peter
+  - juergen
